@@ -1,5 +1,8 @@
 # 📊 Data Science Salary Dashboard (Excel Project)
 
+## 📷 Dashboard Preview
+![Dashboard](Data_Salary_Dashboard.png)
+
 ## 📌 Project Overview
 This project is an interactive Excel dashboard that analyzes data science salaries across different job roles, countries, and employment types to support data-driven career decisions.
 
@@ -45,11 +48,6 @@ The dashboard allows users to explore salary trends and gain insights into the d
 - Which data science roles have the highest salaries?
 - How do salaries vary by country?
 - What is the impact of employment type on salary?
-
----
-
-## 📷 Dashboard Preview
-![Dashboard](Data_Salary_Dashboard.png)
 
 ---
 
