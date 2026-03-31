@@ -34,7 +34,12 @@ The dashboard allows users to explore salary trends and gain insights into the d
 ## 📈 Key Features
 - Filter by Job Title, Country, and Employment Type  
 - Salary comparison across roles like Data Scientist, ML Engineer, Data Analyst  
-- Global salary distribution using map visualization  
+- Global salary distribution using map visualization
+
+### 📌 KPI Metrics
+- Median Salary (dynamic based on filters)  
+- Job Count (filtered dataset)  
+- Platform Distribution (based on selected criteria)  
 
 ## ❓ Questions Answered
 - Which data science roles have the highest salaries?
