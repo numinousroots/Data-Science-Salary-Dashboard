@@ -69,7 +69,7 @@ This dashboard helps:
 
 ## 📂 Files Included
 - Data_Science_Salary_Dashboard.xlsx → Main Excel Dashboard  
-- dashboard.png → Dashboard Preview  
+- Data_Salary_Dashboard.png → Dashboard Preview  
 
 ---
 
