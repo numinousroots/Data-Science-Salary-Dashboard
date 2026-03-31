@@ -5,6 +5,10 @@ This project is an interactive Excel dashboard that analyzes data science salari
 
 The dashboard allows users to explore salary trends and gain insights into the data science job market.
 
+## 📊 Dataset Source
+- Source: DataNerd (https://datanerd.tech)  
+- The dataset provides insights into data science salaries based on job roles, experience levels, locations, and employment types, enabling analysis of global salary trends.
+
 ---
 
 ## 🛠 Tools & Skills Used
@@ -13,6 +17,12 @@ The dashboard allows users to explore salary trends and gain insights into the d
 - Slicers (Dynamic Filtering)
 - Data Cleaning & Transformation
 - Dashboard Design
+
+## 🧹 Data Cleaning Steps
+- Removed duplicate records  
+- Handled missing or null values  
+- Standardized job titles and country names  
+- Ensured salary data is in consistent format  
 
 ## ▶️ How to Use
 1. Open the Excel file
@@ -47,7 +57,13 @@ This dashboard provides a clear and interactive way to explore these insights.
 ## 📊 Insights
 - Senior-level roles offer significantly higher median salaries compared to entry-level positions  
 - Full-time employment dominates the data science job market  
-- Salaries vary widely by country, with the United States offering higher ranges    
+- Salaries vary widely by country, with the United States offering higher ranges
+
+## 💼 Business Value
+This dashboard helps:
+- Job seekers understand salary trends in data science  
+- Companies benchmark compensation across roles  
+- Professionals make data-driven career decisions      
 
 ---
 
@@ -56,6 +72,11 @@ This dashboard provides a clear and interactive way to explore these insights.
 - dashboard.png → Dashboard Preview  
 
 ---
+
+## 🚧 Future Improvements
+- Add more recent dataset for updated insights  
+- Include experience-level salary analysis  
+- Rebuild this dashboard using Power BI for advanced visualization  
 
 ## 🚀 Author
 - Abhishek Agrawal
