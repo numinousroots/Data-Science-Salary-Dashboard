@@ -44,7 +44,7 @@ The dashboard allows users to explore salary trends and gain insights into the d
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Data_Salary_Dashboard.png)
 
 ---
 
